@@ -6,8 +6,9 @@
 </head>
 <body>
 
-<h1>WORLD: Tackling promblems in a new light</h1>
-<p>Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.-HARRIET TUBMAN</p>
+<h1>WORLD: Tackling promblems involving animals in a new light</h1>
+<p>"If having a soul means being able to feel love and loyalty and gratitude, then animals are better off than a lot of humans 
+  -JAMES HERRIOT</p>
 
 </body>
 </html>
@@ -15,8 +16,8 @@
 <html>
 <body>
 
-<h2>Spectacular Mountain</h2>
-<img src="chnge_jpg.jpg" alt="CHANGE" style="width:304px;height:228px;">
+<h2></h2>
+<img src="animallove" alt="CHANGE" style="width:304px;height:228px;">
 
 </body>
 </html>
